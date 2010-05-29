@@ -1,0 +1,29 @@
+<mockup version="1.0" skin="sketch" measuredW="949" measuredH="664" mockupW="923" mockupH="628">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="297" y="26" w="-1" h="-1" measuredW="327" measuredH="23" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>firstServer%2C%20aCluster%2C%20Organisation%2C%20nextServer</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::SearchBox" x="16" y="26" w="266" h="-1" measuredW="246" measuredH="25" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>magic%20search%20box%20finds%20anything</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::DataGrid" x="38" y="123" w="620" h="273" measuredW="193" measuredH="266" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>objectName%20%5E%2C%20ObjectType%0AfirstServer%2C%20Device%0AmyOrg%2C%20Organisation%0AaSite%2C%20Location%0Amyself%2C%20Person%0AsecondServer%2C%20Device%0AClusterNodeA%2C%20Device%0AClusterNodeB%2C%20Device%0AtheCluster%2C%20Grouping</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Tooltip" x="231" y="49" w="-1" h="-1" measuredW="708" measuredH="59" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>the%20magic%20search%20box%20finds%20people%2C%20organisations%2C%20devices%2C%20roles%2C%20objects%20and%20locations.%0AIt%20also%20allows%20you%20to%20input%20script-like%20information%20to%20sort%20%26%20filter%20results.%0AThese%20can%20be%20dragged%20off-screen%20to%20become%20a%20perma-link%20to%20either%20the%20results%2C%20or%20the%20specific%20object%20or%20device.</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Tree" x="36" y="409" w="622" h="245" measuredW="300" measuredH="225" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>f%20Import%20or%20Export%0AF%20Clients%0A-%20FH%0A-%20ACC%0A-%20MoJ%0A-%20Corrections</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
